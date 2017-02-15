@@ -1,0 +1,10 @@
+# 瀑布流
+
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.gitignore
+.idea/
